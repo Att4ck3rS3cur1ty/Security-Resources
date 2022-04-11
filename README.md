@@ -3,25 +3,37 @@
 ## Forensics
 
 - [Exif Samples](https://github.com/ianare/exif-samples): sample images for testing Exif metadata retrieval.
-- [imago-forensics](https://github.com/redaelli/imago-forensics): a python tool that extracts digital evidences from images recursively.
+- [Imago-forensics](https://github.com/redaelli/imago-forensics): a python tool that extracts digital evidences from images recursively.
+- [Foremost](https://wiki.archlinux.org/title/Foremost)
+- [Forensic Toolkit (FTK)](https://accessdata.com/product-download)
+- [Hexdump](https://man7.org/linux/man-pages/man1/hexdump.1.html)
+- [Hexeditor](http://manpages.ubuntu.com/manpages/bionic/man1/hexeditor.1.html)
+- [OpenText EnCase Forensic](https://security.opentext.com/encase-forensic)
+- [Scalpel](http://manpages.ubuntu.com/manpages/impish/man1/scalpel.1.html)
+- [The Sleuth Kit (TSK) & Autopsy](https://www.sleuthkit.org/)
+- [Volatility](https://www.volatilityfoundation.org/)
+- [Wireshark](https://www.wireshark.org/)
+- [xxd](https://linux.die.net/man/1/xxd)
 
 ## Web Penetration Testing
 
 #### HTTP Secure Headers
-- [Content Security Policy (CSP) Validator](https://cspvalidator.org/#url=https://cspvalidator.org/): Validate CSP in headers and meta elements
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/): CSP Evaluator allows developers and security experts to check if a Content Security Policy (CSP) serves as a strong mitigation against cross-site scripting attacks.
+- [Content Security Policy (CSP) Validator](https://cspvalidator.org/#url=https://cspvalidator.org/): Validate CSP in headers and meta elements
 
 #### Web Proxy, Scanner & Analysis Tool
-- [Burp Suite](https://portswigger.net/burp)
-- [OWASP ZAP](https://www.zaproxy.org/)
-- [Nessus](https://www.tenable.com/products/nessus)
 - [Acunetix](https://www.acunetix.com/)
+- [Burp Suite](https://portswigger.net/burp)
+- [Nessus](https://www.tenable.com/products/nessus)
+- [OWASP ZAP](https://www.zaproxy.org/)
 
 ## OSINT & Threat Intelligence
-- [Maltego](https://www.maltego.com/)
-- [Shodan](https://www.shodan.io/)
+- [Google Lens](https://lens.google/)
+- [Google Image](https://www.google.com/imghp)
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+- [Maltego](https://www.maltego.com/)
 - [OSINT-Brazuca](https://github.com/osintbrazuca/OSINT-Brazuca)
+- [Shodan](https://www.shodan.io/)
 
 # OWASP Top 10 - 2021 
 
