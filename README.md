@@ -1,19 +1,23 @@
 # Tools 
 
-## Forensics
+## Forensics, File Carving, Reverse Engineering, Steganography
 
 - [Exif Samples](https://github.com/ianare/exif-samples): sample images for testing Exif metadata retrieval.
 - [Imago-forensics](https://github.com/redaelli/imago-forensics): a python tool that extracts digital evidences from images recursively.
 - [Foremost](https://wiki.archlinux.org/title/Foremost)
 - [Forensic Toolkit (FTK)](https://accessdata.com/product-download)
+- [Ghidra](https://ghidra-sre.org/)
 - [Hexdump](https://man7.org/linux/man-pages/man1/hexdump.1.html)
 - [Hexeditor](http://manpages.ubuntu.com/manpages/bionic/man1/hexeditor.1.html)
+- [IDA Pro](https://hex-rays.com/ida-pro/)
+- [OllyDbg](https://www.ollydbg.de/)
 - [OpenText EnCase Forensic](https://security.opentext.com/encase-forensic)
 - [Scalpel](http://manpages.ubuntu.com/manpages/impish/man1/scalpel.1.html)
 - [The Sleuth Kit (TSK) & Autopsy](https://www.sleuthkit.org/)
 - [Volatility](https://www.volatilityfoundation.org/)
 - [Wireshark](https://www.wireshark.org/)
 - [xxd](https://linux.die.net/man/1/xxd)
+- [x64dbg](https://x64dbg.com/)
 
 ## Web Penetration Testing
 
