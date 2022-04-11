@@ -7,11 +7,21 @@
 
 ## Web Penetration Testing
 
-
-
 #### HTTP Secure Headers
 - [Content Security Policy (CSP) Validator](https://cspvalidator.org/#url=https://cspvalidator.org/): Validate CSP in headers and meta elements
-- [CSP Evaluator](https://csp-evaluator.withgoogle.com/): CSP Evaluator allows developers and security experts to check if a Content Security Policy (CSP) serves as a strong mitigation against cross-site scripting attacks. 
+- [CSP Evaluator](https://csp-evaluator.withgoogle.com/): CSP Evaluator allows developers and security experts to check if a Content Security Policy (CSP) serves as a strong mitigation against cross-site scripting attacks.
+
+#### Web Proxy, Scanner & Analysis Tool
+- [Burp Suite](https://portswigger.net/burp)
+- [OWASP ZAP](https://www.zaproxy.org/)
+- [Nessus](https://www.tenable.com/products/nessus)
+- [Acunetix](https://www.acunetix.com/)
+
+## OSINT & Threat Intelligence
+- [Maltego](https://www.maltego.com/)
+- [Shodan](https://www.shodan.io/)
+- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+- [OSINT-Brazuca](https://github.com/osintbrazuca/OSINT-Brazuca)
 
 # OWASP Top 10 - 2021 
 
