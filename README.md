@@ -32,12 +32,21 @@
 - [OWASP ZAP](https://www.zaproxy.org/)
 
 ## OSINT & Threat Intelligence
+- [Censys](https://censys.io/?s=l)
 - [Google Lens](https://lens.google/)
 - [Google Image](https://www.google.com/imghp)
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+- [GreyNoise](https://www.greynoise.io/)
+- [Hunter](https://hunter.io/)
+- [Intelligence X](https://intelx.io/)
 - [Maltego](https://www.maltego.com/)
 - [OSINT-Brazuca](https://github.com/osintbrazuca/OSINT-Brazuca)
+- [PublicWWW](https://publicwww.com/)
+- [Pulsedive](https://pulsedive.com/)
+- [Reposify](https://reposify.com/)
 - [Shodan](https://www.shodan.io/)
+- [WiGLE](https://www.wigle.net/)
+- [ZoomEye](https://www.zoomeye.org/)
 
 # OWASP Top 10 - 2021 
 
@@ -53,3 +62,8 @@
 #### [A08:2021 – Software and Data Integrity Failures](https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures/)
 #### [A09:2021 – Security Logging and Monitoring Failures](https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/)
 #### [A10:2021 – Server-Side Request Forgery (SSRF)](https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/)
+
+#### todo: 
+- re-design to red, blue and purple team
+- add courses, tutorials etc. as references
+- design the pentest playbook
